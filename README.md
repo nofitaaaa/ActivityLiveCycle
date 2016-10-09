@@ -1,6 +1,7 @@
 # ActivityLiveCycle
 
-![Screenshot](https://github.com/nofitaaaa/ActivityLiveCycle/blob/master/Screenshot_2016-10-06-19-26-55.jpg)
+![Screenshot](https://github.com/nofitaaaa/ActivityLiveCycle/blob/master/Screenshot_2016-10-09-15-15-46.jpg)
+![Screenshot](https://github.com/nofitaaaa/ActivityLiveCycle/blob/master/Screenshot_2016-10-09-15-15-57.jpg)
 
 Nama  : Nofita Mahfudiyah <br>
 Kelas : XI RPL 2<br>
